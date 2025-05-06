@@ -1,28 +1,54 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasmio&label=Profile%20views&color=0e75b6&style=flat" alt="lucasmio" /> </p>
+<!-- Presentation -->
+<p>
+  Hi 👋, I'm Lucas! A passionate developer and analytic student from Brazil.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasmio" alt="lucasmio" /></a> </p>
+  - 🌱 I’m currently studying analytic and developer of systems and Computer Science at Fatec/Senai <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
-- 🌱 I’m currently learning **python & HTML**
-
-- 👯 I’m looking to collaborate on [escolinha do bob](https://github.com/Projeto-do-Bob)
-
-- 📫 How to reach me **lucasmartinsmio@gmail.com**
-
-- ⚡ Fun fact **I was born in Bolivia, but I lived my full life in Brazil**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/lucas_s._martins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucas_s._martins" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lucas martins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lucas martins" height="30" width="40" /></a>
+  - 🔭 I am looking for my first job opportunity. My dream is to one day create a business of dev systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmio&show_icons=true&locale=en&layout=compact" alt="lucasmio" /></p>
+  - 💬 I am 18 years old, currently living in Brazil. I have intermediary in English and have a low experience with Python and front-end structures.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmio&show_icons=true&locale=en" alt="lucasmio" /></p>
+  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+</details>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmio&" alt="lucasmio" /></p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lucasmartinsmio&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+<!-- Links -->
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LucasMartins-ce4ok)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_s._martins/)
+
+<!-- GithubStats -->
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmio&show_icons=true&theme=gotham)
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
+  
+  <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Jupyter" height="30" width="40" 
+  </div>
+  
